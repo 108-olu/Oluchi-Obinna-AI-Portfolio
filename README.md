@@ -1,6 +1,4 @@
 # Oluchi-Obinna-AI-Portfolio
-Applied AI &amp; Robotics Portfolio | Houston City College Showcasing projects in Machine Learning, Deep Learning, NLP, Data Science, Computer Vision, and AI Applications.
-# Oluchi Obinna — Applied AI & Robotics Portfolio
 
 Welcome to my official Applied Artificial Intelligence & Robotics portfolio.  
 This repository showcases the projects, technical skills, and hands-on experience I gained throughout my coursework in the HCC Applied AI Program.
@@ -27,54 +25,38 @@ This program gave me foundational and advanced knowledge across:
 
 Each folder below contains project code, documentation, and reflections.
 
+
 ### 🔹 **ITAI 1370 — Artificial Intelligence History**  
-→ `/ITAI1370-Artificial-Intelligence-History`
+→ `/ITAI1370-Artificial-Intelligence-History`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI1370-Artificial-Intelligence-History)
 
 ### 🔹 **COSC 1436 — Programming Fundamentals**  
-→ `/COSC1436-Programming-Fundamentals`
+→ `/COSC1436-Programming-Fundamentals`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/COSC1436-Programming-Fundamental)
 
 ### 🔹 **ITAI 1378 — Computer Vision**  
-→ `/ITAI1378-Computer-Vision`
+→ `/ITAI1378-Computer-Vision`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI1378-Computer-Vision)
 
 ### 🔹 **ITAI 1371 — Intro to Machine Learning**  
-→ `/ITAI1371-Intro-to-Machine-Learning`
+→ `/ITAI1371-Intro-to-Machine-Learning`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI1371-Intro-to-Machine-Learning)
 
 ### 🔹 **ITAI 2374 — Robot Operating Systems**    
-→ `/ITAI2374-Database-Robot-Operating-Systems`
+→ `/ITAI2374-Database-Robot-Operating-Systems`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2374-Robot-Operating-Systems)
 
 ### 🔹 **ITSE 1346 — Database Theory & Design**  
 Project: *Retail E-Commerce Store Database*  
-→ `/ITSE1346-Database-Theory-and-Design`
+→ `/ITSE1346-Database-Theory-and-Design`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITSE1346-Database-Theory-and-Design)
 
 ### 🔹 **ITAI 2372 — AI Applications**  
-→ `/ITAI2372-AI-Applications`
+→ `/ITAI2372-AI-Applications`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2372-AI-Applications)
 
 ### 🔹 **ITAI 2373 — Natural Language Processing**  
-→ `/ITAI2372-AI-Applications`
+→ `/ITAI2373-Natural-Language-Processing`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2373-Natural-Language-Processing)
 
 ### 🔹 **ITAI 2376 — Deep Learning**  
-→ `/ITAI2376-Deep-Learning`
+→ `/ITAI2376-Deep-Learning`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2376-Deep-Learning)
 
 ### 🔹 **ITAI 2377 — Data Science**  
-→ `/ITAI2377-Data-Science`
+→ `/ITAI2377-Data-Science`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2376-Deep-Learning)
 
----
-
-## 🏆 Featured Projects (Quick Links)
-
-- **Machine Learning Classification Models**  
-- **Retail Database SQL System**
-- **Deep Learning Image Classifier**
-- **NLP Intent Classification Model**
-- **Computer Vision Edge Detection & Tracking**
-- **Data Science Exploratory Analyses**
-
-Each featured project includes:
-- Problem statement  
-- Approach & methodology  
-- Code & notebooks  
-- Results & metrics  
-- What I learned  
 
 ---
 
