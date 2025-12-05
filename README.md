@@ -1,6 +1,6 @@
 # Oluchi-Obinna-AI-Portfolio
 Applied AI &amp; Robotics Portfolio | Houston City College Showcasing projects in Machine Learning, Deep Learning, NLP, Data Science, Computer Vision, and AI Applications.
-# Emma Obinna — Applied AI & Robotics Portfolio
+# Oluchi Obinna — Applied AI & Robotics Portfolio
 
 Welcome to my official Applied Artificial Intelligence & Robotics portfolio.  
 This repository showcases the projects, technical skills, and hands-on experience I gained throughout my coursework in the HCC Applied AI Program.
