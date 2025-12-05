@@ -39,11 +39,17 @@ Each folder below contains project code, documentation, and reflections.
 ### 🔹 **ITAI 1371 — Intro to Machine Learning**  
 → `/ITAI1371-Intro-to-Machine-Learning`
 
+### 🔹 **ITAI 2374 — Robot Operating Systems**    
+→ `/ITAI2374-Database-Robot-Operating-Systems`
+
 ### 🔹 **ITSE 1346 — Database Theory & Design**  
 Project: *Retail E-Commerce Store Database*  
 → `/ITSE1346-Database-Theory-and-Design`
 
 ### 🔹 **ITAI 2372 — AI Applications**  
+→ `/ITAI2372-AI-Applications`
+
+### 🔹 **ITAI 2373 — Natural Language Processing**  
 → `/ITAI2372-AI-Applications`
 
 ### 🔹 **ITAI 2376 — Deep Learning**  
