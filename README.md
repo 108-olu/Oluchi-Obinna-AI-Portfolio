@@ -55,7 +55,7 @@ Project: *Retail E-Commerce Store Database*
 → `/ITAI2376-Deep-Learning`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2376-Deep-Learning)
 
 ### 🔹 **ITAI 2377 — Data Science**  
-→ `/ITAI2377-Data-Science`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2376-Deep-Learning)
+→ `/ITAI2377-Data-Science`([https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2376-Deep-Learning](https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2377-Data-Science))
 
 
 ---
