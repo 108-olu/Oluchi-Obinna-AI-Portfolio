@@ -49,8 +49,7 @@ Project: *Retail E-Commerce Store Database*
 → `/ITAI2372-AI-Applications`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2372-AI-Applications)
 
 ### 🔹 **ITAI2277 - Artificial-Intelligence-Resourcess**  
-→ `/ITAI2372-AI-Applications`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2372-AI-Applications)
-ITAI2277-Artificial-Intelligence-Resources
+→ `/ITAI2277-Artificial-Intelligence-Resources`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2277-Artificial-Intelligence-Resources)
 
 ### 🔹 **ITAI 2373 — Natural Language Processing**  
 → `/ITAI2373-Natural-Language-Processing`(https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2373-Natural-Language-Processing)
