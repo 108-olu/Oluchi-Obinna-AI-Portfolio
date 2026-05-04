@@ -57,7 +57,35 @@ Project: *Retail E-Commerce Store Database*
 ### 🔹 **ITAI 2377 — Data Science**  
 → `/ITAI2377-Data-Science`([https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2376-Deep-Learning](https://github.com/108-olu/Oluchi-Obinna-AI-Portfolio/tree/main/ITAI2377-Data-Science))
 
+## ⭐ Featured Projects
 
+### 🚀 CompoundIQ — AI Drug Discovery Pipeline
+
+CompoundIQ is an AI-powered system designed to discover safe three-drug combinations using natural language input. Users can describe a medical or therapeutic goal in plain English, and the system translates that into a biological representation using BioBERT.
+
+Once the input is processed, the system generates potential molecular drug candidates using JT-VAE (Junction Tree Variational Autoencoder). These candidates are then evaluated using Graph Neural Networks, which analyze both pairwise and three-drug interactions to predict safety and compatibility.
+
+Unsafe drug combinations are filtered out, and the remaining options are ranked to highlight the most promising and safe results.
+
+🔗 **GitHub Repository:**  
+[View CompoundIQ Project](https://github.com/ComfortCS50/CompoundIQ)
+
+---
+
+### 💡 Key Features
+- Natural language to biological representation using BioBERT  
+- Molecular structure generation with JT-VAE  
+- Drug interaction analysis using Graph Neural Networks  
+- Safety filtering and ranking of drug combinations  
+- End-to-end AI pipeline for drug discovery  
+
+---
+
+### 🧠 What I Learned
+- How different AI models (NLP + deep learning + graph models) can work together  
+- How machine learning can be applied to real-world healthcare problems  
+- The importance of safety and evaluation in AI-generated results  
+- How to design and explain a full AI pipeline from input to output   
 ---
 
 ## 🛠 Skills & Technologies
